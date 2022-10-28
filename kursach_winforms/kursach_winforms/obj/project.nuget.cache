@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "nsL0pwr/9GNaFbFIrVz7e/EhB8mOh6tHJD7nIrnQvSuDD8yWv1ilb0Vb5PVE26p0pV/XxXkw4a4YuAJwpWWJAg==",
+  "success": true,
+  "projectFilePath": "E:\\универ\\2 курс\\2 сем\\спо\\курсач\\kursach_winforms\\kursach_winforms\\kursach_winforms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\solid\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\solid\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\solid\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\solid\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512",
+    "C:\\Users\\solid\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\solid\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

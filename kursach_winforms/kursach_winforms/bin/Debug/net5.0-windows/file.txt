@@ -1,0 +1,115 @@
+ cpu
+Name: Intel(R) Pentium(R) CPU G2030 @ 3.00GHz
+Number Of Cores: 2
+Processor Id: BFEBFBFF000306A9
+Address Width: 64
+Architecture: 9
+Asset Tag: Fill By OEM
+Characteristics: 4
+Cpu Status: 1
+Creation: Win32_Processor
+Current Voltage: 9
+Data Width: 64
+DeviceID: CPU0
+
+ cpu
+Name: Intel(R) Pentium(R) CPU G2030 @ 3.00GHz
+Number Of Cores: 2
+Processor Id: BFEBFBFF000306A9
+Address Width: 64
+Architecture: 9
+Asset Tag: Fill By OEM
+Characteristics: 4
+Cpu Status: 1
+Creation: Win32_Processor
+Current Voltage: 9
+Data Width: 64
+DeviceID: CPU0
+
+ bios
+BIOS Date: 02/27/14 15:11:44 Ver: 04.06.05
+Current Language: ru|RU|iso8859-5
+Installable Languages: 7
+Release Date: 20140227000000.000000+000
+Manufacturer: American Megatrends Inc.
+Serial Number: To be filled by O.E.M.
+SMBIOSBIOS Version: Fid
+SMBIOS Major Version: 2
+SMBIOS Minor Version: 7
+Software Element State: 3
+Status: OK
+Bios Major Version: 4
+Bios Minor Version: 6
+Target Operating System: 0
+Version: ALASKA - 1072009
+
+ hdd
+Name: A:\
+File system: NTFS
+Disk type: Fixed
+Amount of available free space (in bytes): 50304954368
+Is the disk ready: True
+Disk root directory: A:\
+Total amount of free space available on the disk (in bytes): 50304954368
+Disk size (in bytes): 50535600128
+Disk volume label: TEMP_C
+
+Name: C:\
+File system: NTFS
+Disk type: Fixed
+Amount of available free space (in bytes): 17298776064
+Is the disk ready: True
+Disk root directory: C:\
+Total amount of free space available on the disk (in bytes): 17298776064
+Disk size (in bytes): 120031539200
+Disk volume label: SYST_1
+
+Name: D:\
+File system: FAT32
+Disk type: Fixed
+Amount of available free space (in bytes): 29486317568
+Is the disk ready: True
+Disk root directory: D:\
+Total amount of free space available on the disk (in bytes): 29486317568
+Disk size (in bytes): 202095099904
+Disk volume label: DIST_1
+
+Name: E:\
+File system: NTFS
+Disk type: Fixed
+Amount of available free space (in bytes): 251740549120
+Is the disk ready: True
+Disk root directory: E:\
+Total amount of free space available on the disk (in bytes): 251740549120
+Disk size (in bytes): 539051945984
+Disk volume label: NTFS_1
+
+Name: F:\
+File system: NTFS
+Disk type: Fixed
+Amount of available free space (in bytes): 76612960256
+Is the disk ready: True
+Disk root directory: F:\
+Total amount of free space available on the disk (in bytes): 76612960256
+Disk size (in bytes): 208461492224
+Disk volume label: TEMP_1
+
+
+
+ bios
+BIOS Date: 04/11/18 16:43:29 Ver: 05.0000C
+Current Language: 
+Installable Languages: 7
+Release Date: 20180411000000.000000+000
+Manufacturer: American Megatrends Inc.
+Serial Number: Default string
+SMBIOSBIOS Version: F24
+SMBIOS Major Version: 3
+SMBIOS Minor Version: 0
+Software Element State: 3
+Status: OK
+Bios Major Version: 5
+Bios Minor Version: 12
+Target Operating System: 0
+Version: ALASKA - 1072009
+
